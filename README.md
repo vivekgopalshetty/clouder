@@ -10,6 +10,6 @@ All the data is stored in AWS S3 storage <br>
 Data is extrcated from S3 according to User input(city name) and then cencus tract is calculated 
 and displayed on a webiste which is bulit using flask 
 
-<h4>Extra Features<h4?
+<h4>Extra Features<h4>
 parallel processing is done to handle requests by users.<br>
 Threads are used for this purpose.
